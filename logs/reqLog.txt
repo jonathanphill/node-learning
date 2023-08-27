@@ -74,3 +74,14 @@
 20230826	 17:30:55	88a5aed9-234e-4ed5-911c-956160c1163e	GET	undefined	/data
 20230826	 17:30:55	1eccc7b0-1b1e-4c9c-897d-be23cf1b03e7	GET	undefined	/css/styles.css
 20230826	 17:31:03	8fcfd774-2256-4cc3-b158-eefd00e88467	GET	undefined	/employees
+20230827	 18:21:18	739c11d1-9e5c-4e5a-8e43-522f5c7163fe	GET	undefined	/employees
+20230827	 18:23:04	e60d6a69-5017-4349-9966-7704004123a1	GET	undefined	/employees
+20230827	 18:23:08	976b1407-0ce8-4e02-967f-c968d3988f69	GET	undefined	/
+20230827	 18:23:08	90c969d4-99dc-4d80-b696-3a0c3c6d18b4	GET	undefined	/css/styles.css
+20230827	 18:48:04	704d12b7-ddbc-4abd-ad30-58d26362fd70	POST	undefined	/register
+20230827	 18:49:30	1c97a6ce-d3c6-467a-be64-d5564338d908	POST	undefined	/register
+20230827	 18:50:34	28d5fd54-bf44-4114-8034-013baff116e5	POST	undefined	/register
+20230827	 18:51:03	1b2591e3-01d0-45be-8714-ab0facd59781	POST	undefined	/register
+20230827	 19:09:02	4b78c972-e719-467b-80c6-1383fc902f9f	POST	undefined	/auth
+20230827	 19:09:14	94d8c393-d5ce-48d0-9c0e-0c61ef5b0b8f	POST	undefined	/auth
+20230827	 19:09:19	7cd97957-967b-4239-b379-2db76ecb480e	POST	undefined	/auth
